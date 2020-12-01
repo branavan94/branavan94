@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm Branavan, a student in 5th year engineering school at ESILV and making a double degree with a business school (EMLV) in France.
+I'm currently working on several Machine learning projects, to learn more about Data Science, and eventually make a living out of it 🔭
+You can reach me on [Linkedin](www.linkedin.com/in/branavan-subramaniam) or send me an email at [branavan.subramaniam.pro@gmail.com](mailto:branavan.subramaniam.pro@gmail.com)
 
 <!--
 **branavan94/branavan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
